@@ -10,8 +10,12 @@ public class PuchPrint {
 		// TODO Auto-generated method stub		
 		System.out.println("Add java Class File Push");	
 		System.out.println("word with 360");
+
 		
 		System.out.println("local master");
+
+
+		System.out.println("remote master");
 
 	}
 
